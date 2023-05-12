@@ -1,8 +1,8 @@
 # Examen EDA
 
-# Nombre usuario: alejandru00
+## Nombre usuario: alejandru00
 
-# Link repositorio:
+##  Link repositorio:
 [Github: https://github.com/alejandru00/Examen-EDA.git]
 
 *******************************
